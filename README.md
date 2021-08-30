@@ -3,4 +3,8 @@ Soy estudiante de Programación Web Full Stack en Digital House, apasionada y mo
 
 Además me apasiona jugar al tenis, el montañismo y la vida en la naturaleza!
 
+Las tecnologías que estoy utilizando son:
+
+• JavaScript • React • CSS • HTML • GIT • NodeJS • Express
+
 
