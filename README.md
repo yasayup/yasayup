@@ -5,6 +5,6 @@ Además me apasiona explorar el mundo de la música electrónica, el montañismo
 
 Las tecnologías que estoy utilizando son:
 
-• JavaScript • React • CSS • HTML • GIT • NodeJS • Express
+• JavaScript • React • CSS • HTML • GIT • NodeJS • Express • MySQL
 
 
